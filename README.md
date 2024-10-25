@@ -9,7 +9,7 @@ The objective of this project is to develop and evaluate machine learning models
 
 Early detection of CKD to prevent disease progression.
 Analysis of key clinical features such as age, blood pressure, and glucose levels to predict the likelihood of CKD.
-Comparison of various machine learning models (Logistic Regression, Decision Trees, Random Forest) to identify the most accurate prediction model.
+Comparison of various machine learning models (Logistic Regression, Decision Trees, Random Forest, SVM etc..) to identify the most accurate prediction model.
 Data Sources
 The dataset used for this project is publicly available and contains clinical data for patients. The key features include:
 
