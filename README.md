@@ -5,7 +5,7 @@ Here's a template for the ReadMe file for your GitHub repository based on your C
 
 Chronic Kidney Disease (CKD) Prediction Project
 Project Objectives:
-The objective of this project is to develop and evaluate machine learning models for predicting Chronic Kidney Disease (CKD) using clinical data. The key goals include:
+The objective of this project is to develop and evaluate machine learning models for predicting Chronic Kidney Disease (CKD) using clinical data. The key goals include.
 
 Early detection of CKD to prevent disease progression.
 Analysis of key clinical features such as age, blood pressure, and glucose levels to predict the likelihood of CKD.
@@ -20,4 +20,5 @@ Creatinine Levels
 Albumin
 Red Blood Cell Count
 Hemoglobin
+
 For access to the dataset and further details, visit: https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
