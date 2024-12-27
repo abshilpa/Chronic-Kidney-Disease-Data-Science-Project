@@ -1,9 +1,7 @@
 # Chronic-Kidney-Disease-Data-Science-Project
 MSC Data Science Final project on Chronic kidney disease 
 
-Here's a template for the ReadMe file for your GitHub repository based on your Chronic Kidney Disease (CKD) prediction project:
-
-Chronic Kidney Disease (CKD) Prediction Project
+Chronic Kidney Disease (CKD) Prediction 
 Project Objectives:
 The objective of this project is to develop and evaluate machine learning models for predicting Chronic Kidney Disease (CKD) using clinical data. The key goals include..
 
