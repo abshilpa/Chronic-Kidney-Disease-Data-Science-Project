@@ -18,6 +18,7 @@ Creatinine Levels
 Albumin
 Red Blood Cell Count
 Hemoglobin
+Serum Creatinine
 
 
 For access to the dataset and further details, visit: https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
