@@ -34,7 +34,7 @@ Diabetes Mellitus,
 Coronary Artery Disease,
 Appetite,
 Pedal Edema,
-Anemia,
+Anemia and 
 Classification
 
 For access to the dataset and further details, visit: https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
