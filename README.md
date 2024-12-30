@@ -11,14 +11,30 @@ Comparison of various machine learning models (Logistic Regression, Decision Tre
 Data Source
 The dataset used for this project is publicly available and contains clinical data for patients. The key features include:
 
-Age
-Blood Pressure
-Blood Glucose Levels
-Creatinine Levels
-Albumin
-Red Blood Cell Count
-Hemoglobin
-Serum Creatinine
-
+Age,
+Blood Pressure,
+Specific Gravity,
+Albumin,
+Sugar,
+Red Blood Cells,
+Pus Cell,
+Pus Cell Clumps,
+Bacteria,
+Blood Glucose Random,
+Blood Urea,
+Serum Creatinine,
+Sodium,
+Potassium,
+Hemoglobin,
+Packed Cell Volume,
+White Blood Cell Count,
+Red Blood Cell Count,
+Hypertension,
+Diabetes Mellitus,
+Coronary Artery Disease,
+Appetite,
+Pedal Edema,
+Anemia,
+Classification
 
 For access to the dataset and further details, visit: https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
