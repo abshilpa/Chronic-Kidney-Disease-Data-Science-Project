@@ -1,9 +1,10 @@
 # Chronic-Kidney-Disease-Data-Science-Project
-MSC Data Science Final project on Chronic kidney disease 
+MSC Data Science Final project on Chronic kidney disease by Shilpa
 
-Chronic Kidney Disease (CKD) Prediction 
-Project Objectives:
-The objective of this project is to develop and evaluate machine learning models for predicting Chronic Kidney Disease (CKD) using clinical data. The key goals include..
+Project Objectives: Chronic Kidney Disease (CKD) Prediction 
+The objective of this project is to develop and evaluate machine learning models for predicting Chronic Kidney Disease (CKD) using clinical data.
+
+The key goals include..
 
 Early detection of CKD to prevent disease progression.
 Analysis of key clinical features such as age, blood pressure, and glucose levels to predict the likelihood of CKD.
