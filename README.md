@@ -31,37 +31,55 @@ Description: The dataset contains medical attributes and labels indicating the p
 ![image](https://github.com/user-attachments/assets/ad924cad-faf5-49b8-a4c6-fe4c45dd27ab)
 
  
-Specific Gravity
-Hypertension
-Hemoglobin
-Diabetes Mellitus
-Albumin
-Appetite
-Red Blood Cell Count
+Specific Gravity,
+Hypertension,
+Hemoglobin,
+Diabetes Mellitus,
+Albumin,
+Appetite,
+Red Blood Cell Count,
 Pus Cell
+
 ## Project Workflow
+
 ### Data Preprocessing
+
 •	Handling missing values
+
 •	Encoding categorical variables
+
 •	Normalizing numerical features
+
 ### Exploratory Data Analysis (EDA)
+
 •	Visualizing data distribution and relationships
+
 •	Identifying key trends and insights
+
 ### Model Development
+
 Training and testing machine learning models such as:
+
 •	Decision Trees
+
 •	Random Forest
+
 •	Logistic Regression
+
 •	Support Vector Machines (SVM)
+
 
 ![image](https://github.com/user-attachments/assets/8aef74c2-3f74-46cf-b45c-eea77a8fd351)
 
  
 ## How to Run
+
 ### Prerequisites
+
 •	Python 3.x installed
 •	Required libraries (install using pip):
-               pip install numpy pandas matplotlib seaborn scikit-learn flask  
+               pip install numpy pandas matplotlib seaborn scikit-learn flask 
+               
 ### Steps:
 ### 	Clone the repository:
                git clone <repository_url>  
@@ -75,9 +93,13 @@ The project predicts the presence or absence of Chronic Kidney Disease with high
 ## Future Scope
 ![image](https://github.com/user-attachments/assets/cd0f915e-74e6-49ac-a8cb-ea28c5a5f741)
 
+
 Incorporating more advanced machine learning and deep learning techniques
+
 Enhancing the web application's design and usability
+
 Expanding the dataset with recent and diverse patient records
+
  
 ## Contribution
 Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository and create a pull request.
