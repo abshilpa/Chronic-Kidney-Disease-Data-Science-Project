@@ -4,28 +4,27 @@
 ## Chronic Kidney Disease Prediction Overview
 This project is focused on predicting chronic kidney disease (CKD) by analyzing essential medical parameters, including Specific Gravity, Hypertension, Hemoglobin, Diabetes Mellitus, Albumin, Appetite, Red Blood Cell Count, Pus Cell, and more. By utilizing advanced machine learning models, the system delivers precise predictions to support healthcare professionals in early diagnosis and informed decision-making, ultimately enhancing patient outcomes.
  
-Domain-Healthcare
+## Domain-Healthcare
 
-Technology Stack
+## Technology Stack
 Machine Learning: For building predictive models
 Web Development: For creating a user-friendly web application
-Programming Languages
+## Programming Languages
 Python: Backend and model implementation
 HTML, CSS, JavaScript: Frontend for the web application
-Framework
+## Framework
 Flask: Web framework for integrating the machine learning model with a web interface
-Libraries Used
+## Libraries Used
 Numpy: Numerical computations
 Pandas: Data manipulation and cleaning
 Matplotlib: Data visualization
 Seaborn: Advanced data visualization
 Scikit-learn: Machine learning model building and evaluation
-Dataset
+## Dataset
 Name: Kidney_data.csv
 Source: Open-source dataset from Kaggle
 Description: The dataset contains medical attributes and labels indicating the presence or absence of Chronic Kidney Disease.
-Features
-The dataset includes the following attributes used for prediction:
+### Features - The dataset includes the following attributes used for prediction:
  
 
 Specific Gravity
