@@ -9,12 +9,9 @@ This project is focused on predicting chronic kidney disease (CKD) by analyzing 
 
 ## Technology Stack
 Machine Learning: For building predictive models
-Web Development: For creating a user-friendly web application
+
 ## Programming Languages
-Python: Backend and model implementation
-HTML, CSS, JavaScript: Frontend for the web application
-## Framework
-Flask: Web framework for integrating the machine learning model with a web interface
+Python
 ## Libraries Used
 Numpy: Numerical computations
 Pandas: Data manipulation and cleaning
@@ -51,12 +48,10 @@ Training and testing machine learning models such as:
 •	Random Forest
 •	Logistic Regression
 •	Support Vector Machines (SVM)
+
 ![image](https://github.com/user-attachments/assets/8aef74c2-3f74-46cf-b45c-eea77a8fd351)
 
  
-### Web Application Development
-•	Flask-based backend for model integration
-•	Frontend interface using HTML, CSS, and JavaScript
 ## How to Run
 ### Prerequisites
 •	Python 3.x installed
@@ -66,9 +61,7 @@ Training and testing machine learning models such as:
 ### 	Clone the repository:
                git clone <repository_url>  
                cd Chronic-Kidney-Disease-Prediction  
-### Start the Flask server:
-                 python app.py  
-###	Access the application in your browser at http://127.0.0.1:5000/.
+
 ## Results
 ![image](https://github.com/user-attachments/assets/5450399d-e108-46f8-9996-27c679986293)
 
