@@ -1,5 +1,4 @@
-# Data-Science-Project-Chronic-Kidney-Disease
-## MSC Data Science Final project on Chronic kidney disease by Abbugari Dhanalakshmi Shilpa
+# MSC Data Science Final Project on Chronic Kidney Disease by Abbugari Dhanalakshmi Shilpa
 ![image](https://github.com/user-attachments/assets/14d6b71b-2c34-4bde-b7a1-e2ee2cc480cf)
 
 
