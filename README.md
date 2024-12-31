@@ -26,7 +26,6 @@ Source: Open-source dataset from Kaggle
 Description: The dataset contains medical attributes and labels indicating the presence or absence of Chronic Kidney Disease.
 ### Features - The dataset includes the following attributes used for prediction:
  
-
 Specific Gravity
 Hypertension
 Hemoglobin
@@ -35,15 +34,15 @@ Albumin
 Appetite
 Red Blood Cell Count
 Pus Cell
-Project Workflow
-Data Preprocessing
+## Project Workflow
+### Data Preprocessing
 •	Handling missing values
 •	Encoding categorical variables
 •	Normalizing numerical features
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 •	Visualizing data distribution and relationships
 •	Identifying key trends and insights
-Model Development
+### Model Development
 Training and testing machine learning models such as:
 •	Decision Trees
 •	Random Forest
