@@ -1,5 +1,7 @@
 # Chronic-Kidney-Disease-Data-Science-Project
 # MSC Data Science Final project on Chronic kidney disease by Abbugari Dhanalakshmi Shilpa
+![image](https://github.com/user-attachments/assets/14d6b71b-2c34-4bde-b7a1-e2ee2cc480cf)
+
 
 ## Chronic Kidney Disease Prediction Overview
 This project is focused on predicting chronic kidney disease (CKD) by analyzing essential medical parameters, including Specific Gravity, Hypertension, Hemoglobin, Diabetes Mellitus, Albumin, Appetite, Red Blood Cell Count, Pus Cell, and more. By utilizing advanced machine learning models, the system delivers precise predictions to support healthcare professionals in early diagnosis and informed decision-making, ultimately enhancing patient outcomes.
