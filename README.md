@@ -27,6 +27,8 @@ Name: Kidney_data.csv
 Source: Open-source dataset from Kaggle
 Description: The dataset contains medical attributes and labels indicating the presence or absence of Chronic Kidney Disease.
 ### Features - The dataset includes the following attributes used for prediction:
+![image](https://github.com/user-attachments/assets/ad924cad-faf5-49b8-a4c6-fe4c45dd27ab)
+
  
 Specific Gravity
 Hypertension
