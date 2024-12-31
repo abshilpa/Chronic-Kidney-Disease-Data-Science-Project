@@ -14,10 +14,15 @@ Machine Learning: For building predictive models
 Python
 ## Libraries Used
 Numpy: Numerical computations
+
 Pandas: Data manipulation and cleaning
+
 Matplotlib: Data visualization
+
 Seaborn: Advanced data visualization
+
 Scikit-learn: Machine learning model building and evaluation
+
 ## Dataset
 Name: Kidney_data.csv
 Source: Open-source dataset from Kaggle
