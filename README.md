@@ -7,7 +7,7 @@ This project is focused on predicting chronic kidney disease (CKD) by analyzing 
  
 ## Domain-Healthcare
 
-## Technology Stack
+## Technology 
 Machine Learning: For building predictive models
 
 ## Programming Languages
