@@ -49,31 +49,31 @@ Training and testing machine learning models such as:
 •	Logistic Regression
 •	Support Vector Machines (SVM)
  
-Web Application Development
+### Web Application Development
 •	Flask-based backend for model integration
 •	Frontend interface using HTML, CSS, and JavaScript
-How to Run
-Prerequisites
+## How to Run
+### Prerequisites
 •	Python 3.x installed
 •	Required libraries (install using pip):
                pip install numpy pandas matplotlib seaborn scikit-learn flask  
-Steps:
-•	Clone the repository:
+### Steps:
+### 	Clone the repository:
                git clone <repository_url>  
                cd Chronic-Kidney-Disease-Prediction  
-•	Start the Flask server:
+### Start the Flask server:
                  python app.py  
-•	Access the application in your browser at http://127.0.0.1:5000/.
-Results
+###	Access the application in your browser at http://127.0.0.1:5000/.
+## Results
 The project predicts the presence or absence of Chronic Kidney Disease with high accuracy, demonstrating the effectiveness of machine learning in healthcare applications.
  
-Future Scope
+## Future Scope
 Incorporating more advanced machine learning and deep learning techniques
 Enhancing the web application's design and usability
 Expanding the dataset with recent and diverse patient records
  
-Contribution
+## Contribution
 Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository and create a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
