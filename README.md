@@ -9,7 +9,8 @@ The key goals include
 Early detection of CKD to prevent disease progression.
 Analysis of key clinical features such as age, blood pressure, and glucose levels to predict the likelihood of CKD.
 Comparison of various machine learning models (Logistic Regression, Decision Trees, Random Forest, SVM etc.) to identify the most accurate prediction model.
-Data Source
+
+Data Source:
 The dataset used for this project is publicly available and contains clinical data for patients. The key features include:
 
 Age,
