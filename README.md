@@ -52,6 +52,8 @@ Training and testing machine learning models such as:
 •	Random Forest
 •	Logistic Regression
 •	Support Vector Machines (SVM)
+![image](https://github.com/user-attachments/assets/8aef74c2-3f74-46cf-b45c-eea77a8fd351)
+
  
 ### Web Application Development
 •	Flask-based backend for model integration
@@ -69,9 +71,13 @@ Training and testing machine learning models such as:
                  python app.py  
 ###	Access the application in your browser at http://127.0.0.1:5000/.
 ## Results
+![image](https://github.com/user-attachments/assets/5450399d-e108-46f8-9996-27c679986293)
+
 The project predicts the presence or absence of Chronic Kidney Disease with high accuracy, demonstrating the effectiveness of machine learning in healthcare applications.
  
 ## Future Scope
+![image](https://github.com/user-attachments/assets/cd0f915e-74e6-49ac-a8cb-ea28c5a5f741)
+
 Incorporating more advanced machine learning and deep learning techniques
 Enhancing the web application's design and usability
 Expanding the dataset with recent and diverse patient records
