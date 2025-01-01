@@ -86,7 +86,7 @@ Training and testing machine learning models such as:
 
 •	Python 3.x installed
 •	Required libraries (install using pip):
-               pip install numpy pandas matplotlib seaborn scikit-learn flask 
+               pip install numpy pandas matplotlib seaborn scikit-learn 
                
 ### Steps:
 ### 	Clone the repository:
@@ -102,11 +102,7 @@ The project predicts the presence or absence of Chronic Kidney Disease with high
 ![image](https://github.com/user-attachments/assets/cd0f915e-74e6-49ac-a8cb-ea28c5a5f741)
 
 
-Incorporating more advanced machine learning and deep learning techniques
-
-Enhancing the web application's design and usability
-
-Expanding the dataset with recent and diverse patient records
+Incorporating more advanced machine learning and deep learning technique's 
 
  
 ## Contribution
