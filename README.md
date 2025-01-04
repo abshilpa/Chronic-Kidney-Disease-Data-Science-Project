@@ -13,7 +13,6 @@ Github link : https://github.com/abshilpa/Chronic-Kidney-Disease-Data-Science-Pr
 
 
 
-
 ## Chronic Kidney Disease Prediction Overview
 This project is focused on predicting chronic kidney disease (CKD) by analyzing essential medical parameters, including Specific Gravity, Hypertension, Hemoglobin, Diabetes Mellitus, Albumin, Appetite, Red Blood Cell Count, Pus Cell, and more. By utilizing advanced machine learning models, the system delivers precise predictions to support healthcare professionals in early diagnosis and informed decision-making, ultimately enhancing patient outcomes.
  
