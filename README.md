@@ -105,7 +105,7 @@ The project predicts the presence or absence of Chronic Kidney Disease with high
 ![image](https://github.com/user-attachments/assets/cd0f915e-74e6-49ac-a8cb-ea28c5a5f741)
 
 
-Incorporating more advanced machine learning and deep learning technique's 
+Incorporating more advanced machine learning and deep learning technique's.
 
  
 ## Contribution
