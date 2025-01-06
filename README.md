@@ -102,6 +102,9 @@ Training and testing machine learning models such as:
 
 The project predicts the presence or absence of Chronic Kidney Disease with high accuracy, demonstrating the effectiveness of machine learning in healthcare applications.
 
+## Conclusion
+This project demonstrates the effective use of machine learning models for predicting Chronic Kidney Disease (CKD) with high accuracy. By leveraging data preprocessing techniques, feature engineering, and rigorous model evaluation, the Random Forest model achieved 100% accuracy, making it the most reliable choice for CKD prediction. The insights gained from this project, such as the importance of features like Albumin, Hemoglobin, and Specific Gravity, have significant implications for clinical decision-making and early diagnosis. The complete implementation details and code can be found in this repository, providing a foundation for further advancements in predictive analytics for chronic diseases.
+
 As evident from Table 8.1, Random Forest achieved the highest performance across all metrics, making it the most reliable model for CKD prediction. In contrast, SVM struggled due to the dataset's characteristics, reaffirming the need for careful algorithm selection. 
 
 
